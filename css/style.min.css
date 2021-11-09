@@ -909,6 +909,10 @@ footer .wrapper_app {
   header {
     height: 30px;
   }
+  .menu {
+    position: fixed;
+    width: 50%;
+  }
   .official {
     top: 30px;
     height: 60px;
