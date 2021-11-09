@@ -910,8 +910,7 @@ footer .wrapper_app {
     height: 30px;
   }
   .menu {
-    position: fixed;
-    width: 50%;
+    width: 80%;
   }
   .official {
     top: 30px;
